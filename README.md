@@ -2,8 +2,10 @@
 
 ## Description
 
-•	Title: Case Converter
+•	Title: Case Converter.
+
 •	JetBrains Academy project as part of the Java Full Stack Developer Course.
+
 •	Difficulty level: Easy
 
 A project implementing basic HTML elements. Event handlers for click events. 
